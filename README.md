@@ -1,15 +1,9 @@
-# Expo Router Example
+## Vaga Match
+### seu aplicativa pra encontrar o emprego perfeito
 
-Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
+[![Autor](https://img.shields.io/badge/Autor-João%20Heitor-blue?color=blue)](https://github.com/jhmartins1)
+[![Version](https://img.shields.io/badge/Versão-1.0-green.svg)](https://github.com/jhmartins1/vaga-match)
+[![Last Updated](https://img.shields.io/github/last-commit/jhmartins1/vaga-match.svg)](https://github.com/jhmartins1/vaga-match/commits/master)
+[![Contributors](https://img.shields.io/github/contributors/jhmartins1/vaga-match.svg)](https://github.com/jhmartins1/vaga-match/graphs/contributors)
 
-## 🚀 How to use
-
-```sh
-npx create-react-native-app -t with-router
-```
-
-## 📝 Notes
-
-- [Expo Router: Docs](https://expo.github.io/router)
-- [Expo Router: Repo](https://github.com/expo/router)
-- [Request for Comments](https://github.com/expo/router/discussions/1)
+## Em progresso...
