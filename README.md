@@ -1,5 +1,5 @@
 ## Vaga Match
-### encontre a vaga perfeita para você
+### encontre a vaga certa pra você
 
 [![Autor](https://img.shields.io/badge/Autor-João%20Heitor-blue?color=blue)](https://github.com/jhmartins1)
 [![Version](https://img.shields.io/badge/Versão-1.0-green.svg)](https://github.com/jhmartins1/vaga-match)
